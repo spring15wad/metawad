@@ -1,0 +1,9 @@
+I was going over this in my head a bit last night before bed. <b>IF</b> we want to do something involving typography, how about an app to create a colophon for a web page?
+
+If you're not familiar with a colophon: http://en.wikipedia.org/wiki/Colophon_%28publishing%29
+
+Sneaky end bit on that article: "Some web pages also have colophons, which frequently contain (X)HTML, CSS, or usability standards compliance information and links to website validation tests.[8]"
+
+So, the app could collect and organize relevant information, then spit out a chunk of HTML5/HAML/whatever, something that could be embedded in the site in question to streamline the process.
+
+Just an idea, definitely not fully developed yet. I'd love to hear thoughts on the matter.
