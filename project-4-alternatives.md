@@ -18,5 +18,5 @@ The deadline would need to be before April 28<sup>th</sup>, so that teams could 
 
 The advantage of pushing up the deadline is that we get it out of the way before the crunch at the end of the semester.
 
-
+DPM -- I think this is a great idea, minimal hassle but good impact on their projects.
 
