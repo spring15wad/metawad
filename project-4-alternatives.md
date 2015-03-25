@@ -14,7 +14,7 @@ What I'm kicking around here is an idea for an alternate Project 4, in case we e
   * We create a web page explaining our recommendations, and showing examples from the forked app
   * We issue a pull request to incorporate the recommended fonts.
 
-The deadline would need to be before April 28^(th), so that teams could potentially use the fonts in the version of their app that they present.  Maybe Tuesday, Apr 21^(th)?
+The deadline would need to be before April 28<sup>th</sup>, so that teams could potentially use the fonts in the version of their app that they present.  Maybe Tuesday, Apr 21<sup>st</sup>?
 
 The advantage of pushing up the deadline is that we get it out of the way before the crunch at the end of the semester.
 
