@@ -20,3 +20,9 @@ The advantage of pushing up the deadline is that we get it out of the way before
 
 DPM -- I think this is a great idea, minimal hassle but good impact on their projects.
 
+----
+
+## Sketch of tables
+
+![Tables sketch](img/project4-tables.png)
+
