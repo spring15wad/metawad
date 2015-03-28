@@ -7,7 +7,7 @@
 * **Mechanics**
   * Ruby on Rails web app; teams enter into it:
     * Project name
-    * Copy of proposal
+    * Proposal URL
     * GitHub repository URL
   * We will then enter into that same app
     * A brief document giving our recommendation
