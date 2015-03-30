@@ -41,15 +41,39 @@ We plan to make several changes to the appearance of the app for the beta versio
 * Revised color pallete.
 * Introduction of font stack utilizing web fonts. (See also our coming proposal for project 4.)
 
+#### Internals
+
+* Implement proper tests
+  * E.g., I don't think conditionals in views is the proper way to handle NilClass errors
+* Implement more comprehensive validation
+  * E.g., validating URLs properly
+
+#### Timeline
+
+* March 30 - Proposal due
+* April 6  - Deadline for…
+  * 
+  *
+  *
+* April 13 - Deadline for…
+  *
+  *
+  *
+* April 20 - Deadline for…
+  *
+  *
+  *
+* April 28 - Presentation
+
 ----
 
 Initial feedback on proposal:
 
-  &ldquo;I don't really see any new information here, or anything about how you're going to proceed, what you're going to build, etc. Also no commits to the memo from Dan... This is an OK start for a description, but I'd like to see a bit more who-what-when.&rdquo;
+>&ldquo;I don't really see any new information here, or anything about how you're going to proceed, what you're going to build, etc. Also no commits to the memo from Dan... This is an OK start for a description, but I'd like to see a bit more who-what-when.&rdquo;
 
 Feedback on RollingRead as alpha-app:
 
-  &ldquo;Runnning `rake routes` on your project shows me that there’s probably room to do some nested URLs and record creation; instead of the dropdown fever on, say, assignments, you might think about making Courses the nuclear record creating area. It’s obviously useful to have a listing of all Assignments, but whether their creation should happen outside of working with, say, a Course model is something worth considering. 
+>&ldquo;Runnning `rake routes` on your project shows me that there’s probably room to do some nested URLs and record creation; instead of the dropdown fever on, say, assignments, you might think about making Courses the nuclear record creating area. It’s obviously useful to have a listing of all Assignments, but whether their creation should happen outside of working with, say, a Course model is something worth considering. 
   
-  &ldquo;Probably worth your while to do some more sketching and storytelling to think about ways to more elegantly move users through this app, but also for them to get a better idea of the whole thing’s scope.&rdquo;
+>&ldquo;Probably worth your while to do some more sketching and storytelling to think about ways to more elegantly move users through this app, but also for them to get a better idea of the whole thing’s scope.&rdquo;
 
