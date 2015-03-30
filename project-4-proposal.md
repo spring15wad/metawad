@@ -16,7 +16,7 @@
     * URL of a pull request on the repository for their project that incorporates the recommended fonts
 * **Deadlines**
   * For teams to enter information
-    * ?????
+    * How about Friday, April 17<sup>th</sup>?
   * For recommendations
     * Tuesday, April 21<sup>st</sup>
 
