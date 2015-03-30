@@ -22,8 +22,8 @@ An over-view of the projects follows.
 
 (The exact nature of, and deliverables for, Project 4 are negotiable with PKS.)
 
+----
 
-
-
-
-
+* The “Spring-WAD Wombat” profile picture
+  * Original photo: [Rob and Stephanie Levy](https://www.flickr.com/photos/robandstephanielevy/)
+  * Used under [Creative Commons Attribution 2.0 license](https://creativecommons.org/licenses/by/2.0/legalcode)
