@@ -37,7 +37,7 @@ RollingRead is a rolling reading list, something of a cross between a task list 
 
 We plan to make several changes to the appearance of the app for the beta version.
 
-* Revised layout.
+* Revised layout including responsive design elements for mobile use.
 * Revised color pallete.
 * Introduction of font stack utilizing web fonts. (See also our coming proposal for project 4.)
 
@@ -52,17 +52,16 @@ We plan to make several changes to the appearance of the app for the beta versio
 
 * March 30 - Proposal due
 * April 6  - Deadline for…
-  * 
-  *
-  *
+  * Example user persona
+  * Storyboard user interaction
+  * MVC diagram(s)
+  * Layout sketches
 * April 13 - Deadline for…
-  *
-  *
-  *
+  * Implement functions
+  * Implement OAuth functions
 * April 20 - Deadline for…
-  *
-  *
-  *
+  * Implement style/layout revisions
+  * Unit testing
 * April 28 - Presentation
 
 ----
