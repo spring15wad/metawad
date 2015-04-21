@@ -22,4 +22,4 @@ Other possibly useful pages:
 
 * [Rails and OmniAuth](https://github.com/RailsApps/rails-omniauth/blob/master/README.textile)
 * [OmniAuth: Standardized Multi-Provider Authentication](https://github.com/intridea/omniauth/blob/master/README.md)
-
+* [OmniAuth Wiki](https://github.com/intridea/omniauth/wiki)
