@@ -51,3 +51,26 @@ Other possibly useful pages:
 * [OmniAuth Wiki](https://github.com/intridea/omniauth/wiki)
 * [Rails: An Omniauth Github Tutorial](http://natashatherobot.com/rails-omniauth-github-tutorial/)
 * [How to Use Omniauth to Authenticate your Users](http://code.tutsplus.com/articles/how-to-use-omniauth-to-authenticate-your-users--net-22094)
+
+----
+
+Aha!  What you get back is from GitHub detailed on [Auth Hash Schema](https://github.com/intridea/omniauth/wiki/Auth-Hash-Schema).
+
+**Selected summary**
+
+* `provider` (required) - The provider with which the user authenticated (e.g. 'twitter' or 'facebook')
+* `uid` (required) - An identifier unique to the given provider. Should be stored as a string.
+* `info` (required) - A hash containing information about the user
+  * `name` (required) - The best display name known to the strategy.
+  * `email`
+  * `nickname`
+  * `first_name`
+  * `last_name`
+  * `urls` - A hash containing key value pairs of an identifier for the website and its URL. For instance, an entry could be `"Blog" => "http://intridea.com/blog"`
+* `credentials`
+* `extra` - Contains extra information returned from the authentication provider.
+ 
+I dunno if we'll get and email from GitHub or not.  It's not required.  If you request `scope: "user:email"`, it gives you all the user's emails, including private ones, and I don't want the latter.
+
+
+
