@@ -1,10 +1,10 @@
 ## Page-flow
 
-* Default → …/views/recommendations/show.html.haml
+* Default → …/views/recommendations/summary.html.haml
   * No user → /auth/github
   * No team → …/views/teams/change.html.haml
 
-#### …/views/recommendations/show.html.haml
+#### …/views/recommendations/summary.html.haml
 * Shows:
   * User info
   * Team info
