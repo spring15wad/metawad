@@ -1,12 +1,38 @@
+## Page-flow
+
+* Default → …/views/recommendations/summary.html.haml
+  * No user → /auth/github
+  * No team → …/views/teams/change.html.haml
+
+#### …/views/recommendations/summary.html.haml
+* Shows:
+  * User info
+  * Team info
+  * Recommendation info
+  * Links to examples
+* Actions
+  * Change team → teams/change → …/views/teams/change.html.haml
+  * Logout
+
+#### …/views/teams/change.html.haml
+* Shows
+  * Username, etc.
+  * Table of existing teams
+* Actions
+  * Select your team
+  * Modify a team → teams/edit → …/views/teams/edit.html.haml
+  * Create a team → teams/new → …/views/teams/new.html.haml
+
+
 ## OAuth
 
 OmniAuth for GitHub: [github.com/intridea/omniauth-github](https://github.com/intridea/omniauth-github)
 
-**Basic Usage** (from [README](https://github.com/intridea/omniauth-github/blob/master/README.md))
+**Basic Usage** (adapted from [README](https://github.com/intridea/omniauth-github/blob/master/README.md))
 
 ```ruby
-use OmniAuth::Builder do
-  provider :github, ENV['GITHUB_KEY'], ENV['GITHUB_SECRET']
+Rails.application.config.middleware.use OmniAuth::Builder do
+  provider :github, ENV['GITHUB_KEY'], ENV['GITHUB_SECRET'], scope: ""
 end
 ```
 
