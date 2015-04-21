@@ -23,3 +23,5 @@ Other possibly useful pages:
 * [Rails and OmniAuth](https://github.com/RailsApps/rails-omniauth/blob/master/README.textile)
 * [OmniAuth: Standardized Multi-Provider Authentication](https://github.com/intridea/omniauth/blob/master/README.md)
 * [OmniAuth Wiki](https://github.com/intridea/omniauth/wiki)
+* [Rails: An Omniauth Github Tutorial](http://natashatherobot.com/rails-omniauth-github-tutorial/)
+* [How to Use Omniauth to Authenticate your Users](http://code.tutsplus.com/articles/how-to-use-omniauth-to-authenticate-your-users--net-22094)
