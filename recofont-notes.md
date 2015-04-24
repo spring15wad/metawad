@@ -90,10 +90,14 @@ uid       | login
 5012820   | "sicueft"
 8630916   | "thedanmartin"
 8679001   | "YishanHuang"
+10623351  | "sburnet1"
+11053292  | "kscom381zk"
+10619908  | "jsilva4"
+8608763   | "dtoppel"
 
-So, on click-through from landing page, not only check if `uid` exists, make sure it's in this hash:
+
+So, on click-through from landing page, not only check if `uid` exists, make sure it's in this array:
 ```
-{ "170719", "10054112", "10679896", "3185208", "8574294", "5863302", "6386800", "5012820", "8630916", "8679001" }
+[ "170719", "10054112", "10679896", "3185208", "8574294", "5863302", "6386800", "5012820", "8630916", "8679001", "10623351", "11053292", "10619908", "8608763" ]
 ```
-BTW, that list is missing four users, as far as I can tell.  Maybe check with Karl?
 
